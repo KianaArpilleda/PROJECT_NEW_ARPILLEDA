@@ -26,7 +26,7 @@ A collection of three activities completed during the Prelim period covering cor
       <hr />
       <h3> ✿❀ Quick Favorites</h3>
       <ul>
-        <li> <strong>Favorite Food:</strong> Creamy Carbonara</li>
+        <li> <strong>Favorite Food:</strong> Chicken with white sauce</li>
         <li> <strong>Favorite color:</strong> Pink</li>
         <li> <strong>Favorite Movie:</strong> <em>World War Z</em></li>
       </ul>
