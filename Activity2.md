@@ -11,6 +11,9 @@ Explain the chosen colors and typography and why they were selected.
 
 * **Primary Color:** Cerise Pink / Red (`#CC0000`) and **Yellow** (`#FDE599`) — Selected to stimulate appetite, convey warmth, and reflect the welcoming energy of home-cooked Filipino food ("Lutong Bahay").
 * **Secondary Accents:** **Light Red**, **Grey Orange** (`#AA894F`), and **Light Orange** (`#FFA2`) — Used for background balance, ribbon details, and subtle visual contrast across branding assets.
+  
+  <img width="446" height="440" alt="Screenshot 2026-09-06 051642" src="https://github.com/user-attachments/assets/ba5ba86e-f65d-4f7a-831b-6ddb5b1e8c85" />
+
 ---
 
 ## Typography Pairing
@@ -18,6 +21,9 @@ Explain the chosen colors and typography and why they were selected.
 * **Brand Name / Display Font:** **NAUTILIOIUS POMPILIOUS** — Used for *"Kian - deria"* and **Pompiere** for the arched slogan *"Lutong bahay, Sarap na tunay!"* to give a friendly, handcrafted, and authentic home-style feel.
 * **Body Font:** **The Seasons** — Selected for crisp readability and modern elegance across menus and project descriptions.
 * **Accent Font:** **Pompiere** — Used for sub-elements and label accents to keep the branding clean and structured.
+
+  <img width="410" height="343" alt="Screenshot 2026-09-06 051844" src="https://github.com/user-attachments/assets/1a455333-c11f-4eae-8c0e-8905eae6a701" />
+
 ---
 
 ## 📸 Output Preview
