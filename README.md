@@ -33,6 +33,20 @@ A collection of three activities completed during the Prelim period covering cor
     </td>
   </tr>
 </table>
+### How I Created and Set Up the GitHub Repository 📝📁
+
+1. **Repository Initialization:** Navigated to GitHub and created a new repository using a standardized academic naming convention (`GE4120-Digital-Portfolio` / `BSN4F-Portfolio-Digal`) to ensure easy identification for coursework evaluation.
+2. **Visibility Configuration:** Set the repository to **Public** so instructors, peers, and external evaluators could access and inspect the rendered documentation without requiring authentication tokens or invitation links.
+3. **Core Base Files:** Initialized the repository directly with a default `README.md` file to serve as the root dashboard, alongside an automatically generated `.gitignore` file to filter out unnecessary system metadata (e.g., `.DS_Store` or local cache files).
+
+---
+
+### How I Uploaded and Organized My Activities and Outputs ❤︎಄
+
+* **Modular Directory Hierarchy:** Rather than dumping every file into the root level, assets were organized into dedicated, logical folders:
+<img width="2862" height="856" alt="kiana png" src="https://github.com/user-attachments/assets/246e0133-4219-42fe-818c-e8bd2535613e" />
+ 
+   
 
 ### ᯓ★ Activities Overview
 
