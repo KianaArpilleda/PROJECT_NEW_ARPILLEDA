@@ -37,9 +37,9 @@ A collection of three activities completed during the Prelim period covering cor
 
 ### How I Created and Set Up the GitHub Repository ୭ ᵎᵎ 🧁
 
-1. **Repository Initialization:** Navigated to GitHub and created a new repository using a standardized academic naming convention (`GE4120-Arpilleda-Portfolio` / `BSN4F-Portfolio-Arpilleda`) to ensure easy identification for coursework evaluation.
-2. **Visibility Configuration:** Set the repository to **Public** so instructors, peers, and external evaluators could access and inspect the rendered documentation without requiring authentication tokens or invitation links.
-3. **Core Base Files:** Initialized the repository directly with a default `README.md` file to serve as the root dashboard, alongside an automatically generated `.gitignore` file to filter out unnecessary system metadata (e.g., `.DS_Store` or local cache files).
+1. **Repository Initialization:** Established a new GitHub repository following the prescribed academic naming format (`GE4120-Arpilleda-Portfolio` / `BSN4F-Portfolio-Arpilleda`) to ensure easy identification for coursework evaluation.
+2. **Access Settings:** Configured repository visibility to Public, allowing evaluators and peers to inspect the project documentation without access restrictions or login credentials.
+3. **Core Base Files:** Provisioned the repository with a primary `README.md` file to serve as the root dashboard, alongside an automatically generated `.gitignore` file to filter out unnecessary system metadata (e.g., `.DS_Store` or local cache files).
 
 ---
 
@@ -55,18 +55,17 @@ A collection of three activities completed during the Prelim period covering cor
 ### [Activity 1: Presentation Design Principles](Activity1.md)
 > Discuss the design principles applied and how they improved the presentation.
 
-Covers the foundational design principles used to structure and elevate a presentation — including hierarchy, contrast, alignment, repetition, and proximity.
-
+Applies fundamental design principles—such as visual hierarchy, contrast, alignment, repetition, and proximity—to create a well-structured and engaging presentation layout.
 ---
 
 ### [Activity 2: Color Palette and Typography](Activity2.md)
 > Explain the chosen colors and typography and why they were selected.
 
-Explores the deliberate choice of a color palette and typeface pairing, including the psychological and aesthetic reasoning behind each decision.
-
+Explains the design logic, psychological influence, and aesthetic purpose behind the chosen color scheme and fonts.
 ---
 
 ### [Activity 3: Social Media Infographics and Mini Project Documentation](Activity3.md)
 > Present the output and explain its concept, design choices, and creative process.
 
-Documents the creation of social media infographics — from concept development and layout planning to the final visual output and its intended message.
+Highlights the step-by-step creation of social media infographics, from initial concept to final published output.
+--
