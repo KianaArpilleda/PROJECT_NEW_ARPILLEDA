@@ -9,16 +9,15 @@ Explain the chosen colors and typography and why they were selected.
 
 ## 𓍢ִ໋🌷͙֒ Color Palette Selection
 
-* **Primary Color:** `#87CEEB` (Baby Blue / Sky Blue) — Selected for its calming, clean, and professional aesthetic.
-* **Secondary Accents:** Neutral darks and off-whites to balance light elements and enhance text readability.
-
+* **Primary Color:** Cerise Pink / Red (`#CC0000`) and **Yellow** (`#FDE599`) — Selected to stimulate appetite, convey warmth, and reflect the welcoming energy of home-cooked Filipino food ("Lutong Bahay").
+* **Secondary Accents:** **Light Red**, **Grey Orange** (`#AA894F`), and **Light Orange** (`#FFA2`) — Used for background balance, ribbon details, and subtle visual contrast across branding assets.
 ---
 
 ## Typography Pairing
 
-* **Header Font:** Sans-Serif Bold — Chosen for modern clarity, strong visual weight, and easy scanning.
-* **Body Font:** Regular Sans-Serif — Paired for high legibility across both web and print viewports.
-
+* **Brand Name / Display Font:** **NAUTILIOIUS POMPILIOUS** — Used for *"Kian - deria"* and **Pompiere** for the arched slogan *"Lutong bahay, Sarap na tunay!"* to give a friendly, handcrafted, and authentic home-style feel.
+* **Body Font:** **The Seasons** — Selected for crisp readability and modern elegance across menus and project descriptions.
+* **Accent Font:** **Pompiere** — Used for sub-elements and label accents to keep the branding clean and structured.
 ---
 
 ## 📸 Output Preview
@@ -28,4 +27,5 @@ Explain the chosen colors and typography and why they were selected.
 ---
 
 ## 💡 Rationale
-
+The combination of appetizing reds, warm yellows, and welcoming script typography captures the heart of a local *carinderia*. It evokes comfort, home-cooked warmth, and immediate brand recognition.
+---
