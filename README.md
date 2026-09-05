@@ -1,3 +1,4 @@
+<img width="769" height="769" alt="Profile jpg" src="https://github.com/user-attachments/assets/c0113eba-319e-48bc-a7c1-04997c8c6aaa" />
  [README](#) | [Activity 1](Activity1.md) | [Activity 2](Activity2.md) | [Activity 3](Activity3.md)
 
 # Prelim Period — Activity Portfolio
@@ -10,7 +11,7 @@ A collection of three activities completed during the Prelim period covering cor
   <tr>
     <td width="30%" align="center" valign="top">
       <br />
-      <img src="profile.jpg" alt="Kiana Angela E. Arpilleda" width="180" />
+      <img src="Profile.jpg" alt="Kiana Angela E. Arpilleda" width="180" />
       <br /><br />
       <strong>KIANA ANGELA E> ARPILLEDA</strong><br />
       <sub>BSN 4F | CLASS OF 2026</sub>
