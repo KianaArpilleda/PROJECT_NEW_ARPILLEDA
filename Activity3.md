@@ -15,7 +15,7 @@ Present the output and explain its concept, design choices, and creative process
 
 ---
 
-## 📸 Final Infographic Output
+## 📸 Final Infographic Output and Mini Project Documentation
 
 ![Activity 3 Output](act3.png)
 
