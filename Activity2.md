@@ -1,6 +1,6 @@
 [⬅️ Back to Main Portfolio](README.md)
 
-# 🎨 Activity 2: Color Palette and Typography
+# .✦ ݁˖ Activity 2: Color Palette and Typography
 
 ## 📌 Objectives
 Explain the chosen colors and typography and why they were selected.
