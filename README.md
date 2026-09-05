@@ -24,7 +24,7 @@ A collection of three activities completed during the Prelim period covering cor
         <li><strong>Section:</strong> 4F</li>
       </ul>
       <hr />
-      <h3> ✿❀ Quick Favorites</h3>
+      <h3> ✿❀ Favorites</h3>
       <ul>
         <li> <strong>Favorite Food:</strong> Chicken with white sauce</li>
         <li> <strong>Favorite color:</strong> Pink</li>
@@ -33,6 +33,8 @@ A collection of three activities completed during the Prelim period covering cor
     </td>
   </tr>
 </table>
+
+
 ### How I Created and Set Up the GitHub Repository ୭ ᵎᵎ 🧁
 
 1. **Repository Initialization:** Navigated to GitHub and created a new repository using a standardized academic naming convention (`GE4120-Arpilleda-Portfolio` / `BSN4F-Portfolio-Arpilleda`) to ensure easy identification for coursework evaluation.
