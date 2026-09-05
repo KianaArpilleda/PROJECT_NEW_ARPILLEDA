@@ -34,18 +34,23 @@ A collection of three activities completed during the Prelim period covering cor
   </tr>
 </table>
 
-### 🖼️ Activity 1: Presentation Design
-![Activity 1 Preview](act1.png)
-* [View Activity 1 Details](Activity1.md)
+### ᯓ★ Activities Overview
+
+### [Activity 1: Presentation Design Principles](Activity1.md)
+> Discuss the design principles applied and how they improved the presentation.
+
+Covers the foundational design principles used to structure and elevate a presentation — including hierarchy, contrast, alignment, repetition, and proximity.
 
 ---
 
-### 🖼️ Activity 2: Visual Identity
-![Activity 2 Preview](act2.png)
-* [View Activity 2 Details](Activity2.md)
+### [Activity 2: Color Palette and Typography](Activity2.md)
+> Explain the chosen colors and typography and why they were selected.
+
+Explores the deliberate choice of a color palette and typeface pairing, including the psychological and aesthetic reasoning behind each decision.
 
 ---
 
-### 🖼️ Activity 3: Infographic Communication
-![Activity 3 Preview](act3.png)
-* [View Activity 3 Details](Activity3.md)
+### [Activity 3: Social Media Infographics and Mini Project Documentation](Activity3.md)
+> Present the output and explain its concept, design choices, and creative process.
+
+Documents the creation of social media infographics — from concept development and layout planning to the final visual output and its intended message.
