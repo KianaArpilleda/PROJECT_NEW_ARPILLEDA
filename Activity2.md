@@ -28,4 +28,4 @@ Explain the chosen colors and typography and why they were selected.
 ---
 
 ## 💡 Rationale
-The combination of a clean sky blue palette with high-contrast typography establishes a modern visual identity that aligns with clear communication goals.
+
