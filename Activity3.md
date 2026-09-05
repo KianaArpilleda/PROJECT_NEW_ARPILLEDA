@@ -7,11 +7,11 @@ Present the output and explain its concept, design choices, and creative process
 
 ---
 
-## Creative Process & Design Choices
+## ˚⊱🪷⊰˚Creative Process & Design Choices
 
-1. **Concept Development:** Defined the core message and target audience requirements before layout drafting.
-2. **Layout Planning:** Structured information into modular cards and bite-sized graphics for quick social media consumption.
-3. **Visual Execution:** Integrated customized icons, color-coded sections, and concise captions for visual storytelling.
+1. **Concept Development:** 
+2. **Layout Planning:** 
+3. **Visual Execution:** 
 
 ---
 
@@ -22,4 +22,4 @@ Present the output and explain its concept, design choices, and creative process
 ---
 
 ## Conclusion
-The final infographic effectively simplifies complex concepts into an approachable, visually appealing digital asset suitable for social media distribution.
+
