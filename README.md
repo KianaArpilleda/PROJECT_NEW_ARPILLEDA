@@ -10,10 +10,10 @@ A collection of three activities completed during the Prelim period covering cor
   <tr>
     <td width="30%" align="center" valign="top">
       <br />
-      <img src="Profile.jpg" alt="Kiana Angela E. Arpilleda" width="180" />
-     <img width="769" height="769" alt="Profile jpg" src="https://github.com/user-attachments/assets/c0113eba-319e-48bc-a7c1-04997c8c6aaa" />
+      <img src="Profile.jpg" width="180" />
+     <img width="769" height="769"  src="https://github.com/user-attachments/assets/c0113eba-319e-48bc-a7c1-04997c8c6aaa" />
       <br /><br />
-      <strong>KIANA ANGELA E> ARPILLEDA</strong><br />
+      <strong>KIANA ANGELA E. ARPILLEDA</strong><br />
       <sub>BSN 4F | CLASS OF 2026</sub>
     </td>
     <td width="70%" valign="top">
