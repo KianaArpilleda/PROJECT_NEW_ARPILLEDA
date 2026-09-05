@@ -23,4 +23,4 @@ Discuss the design principles applied and how they improved the presentation.
 ---
 
 ## 💡 Summary & Reflection
-Applying these foundational design principles helped transform raw, unstructured information into an engaging, visually balanced presentation.
+
