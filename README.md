@@ -72,12 +72,12 @@
 | # | Activity Title | Core Focus | Documentation |
 | :-: | :--- | :--- | :-: |
 | **01** | **Presentation Design Principles** | Visual hierarchy, contrast, alignment, repetition, and proximity | [View Folder](./Activity1.md) |
-| **02** | **Color Palette and Typography** | Color psychology, font pairing, and cohesive visual identity | [View Folder](./Activity-2/README.md) |
-| **03** | **Social Media Infographics** | Visual storytelling, layout workflow, and mini project documentation | [View Folder](./Activity-3/README.md) |
-| **04** | **Google Slides Presentation** | Real-time cloud collaboration and group slide delivery | [View Folder](./Activity-4/README.md) |
-| **05** | **AI Tools Exploration** | Prompt engineering and AI-assisted academic productivity | [View Folder](./Activity-5/README.md) |
-| **06** | **Website Development** | Web page structuring, navigation design, and digital publishing | [View Folder](./Activity-6/README.md) |
-| **07** | **AI-Assisted Resume Generation** | Professional career branding and clinical resume optimization | [View Folder](./Activity-7/README.md) |
+| **02** | **Color Palette and Typography** | Color psychology, font pairing, and cohesive visual identity | [View Folder](./Activity2.md) |
+| **03** | **Social Media Infographics** | Visual storytelling, layout workflow, and mini project documentation | [View Folder](./Activity3.md) |
+| **04** | **Google Slides Presentation** | Real-time cloud collaboration and group slide delivery | [View Folder](./Activity4.md) |
+| **05** | **AI Tools Exploration** | Prompt engineering and AI-assisted academic productivity | [View Folder](./Activity5.md) |
+| **06** | **Website Development** | Web page structuring, navigation design, and digital publishing | [View Folder](./Activity6.md) |
+| **07** | **AI-Assisted Resume Generation** | Professional career branding and clinical resume optimization | [View Folder](./Activity7.md) |
 
 ---
 
