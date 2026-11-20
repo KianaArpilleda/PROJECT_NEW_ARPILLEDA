@@ -1,71 +1,86 @@
- [README](#) | [Activity 1](Activity1.md) | [Activity 2](Activity2.md) | [Activity 3](Activity3.md) | [Activity 4](Activity4.md)
+ <div align="center">
 
-# Prelim Period — Activity Portfolio
+# ⋆˚࿔ GE 4120 — Finals Activity Portfolio ࿔˚⋆
 
-A collection of three activities completed during the Prelim period covering core concepts in presentation design, visual identity, and infographic communication.
+**A complete showcase of my 7 activities in presentation design, visual communication, AI integration, and web development.**
+
+![Course](https://img.shields.io/badge/Course-GE%204120-ff69b4?style=for-the-badge)
+![Program](https://img.shields.io/badge/Program-BSN%204F-ffb6c1?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Finals%20Completed-success?style=for-the-badge)
+
+[👤 About Me](#-personal-profile) • [🛠️ Setup & Structure](#️-repository-setup--structure) • [📂 Activities](#-activities-overview)
+
+</div>
+
 ---
-📁 **Project Overview**
+
+## 📁 Project Overview
 
 <table>
   <tr>
-    <td width="30%" align="center" valign="top">
+    <td width="32%" align="center" valign="middle">
       <br />
-      <img src="Profile.jpg" width="180" />
-     <img width="769" height="769"  src="https://github.com/user-attachments/assets/c0113eba-319e-48bc-a7c1-04997c8c6aaa" />
+      <img width="190" alt="Kiana Angela E. Arpilleda" src="https://github.com/user-attachments/assets/c0113eba-319e-48bc-a7c1-04997c8c6aaa" />
       <br /><br />
       <strong>KIANA ANGELA E. ARPILLEDA</strong><br />
-      <sub>BSN 4F | CLASS OF 2026</sub>
+      <sub>BSN 4F • CLASS OF 2026</sub><br />
+      <sub>University of Mindanao</sub>
+      <br /><br />
     </td>
-    <td width="70%" valign="top">
-      <h3>📄 Personal Profile</h3>
+    <td width="68%" valign="top">
+      <h3 id="-personal-profile">📄 Personal Profile</h3>
       <ul>
         <li><strong>Full Name:</strong> Kiana Angela E. Arpilleda</li>
-        <li><strong>Course:</strong> Bachelor of Science in Nursing (BSN)</li>
-        <li><strong>Section:</strong> 4F</li>
+        <li><strong>Course & Year Level:</strong> Bachelor of Science in Nursing (BSN) — 4th Year (Section 4F)</li>
+        <li><strong>School:</strong> University of Mindanao</li>
+        <li><strong>Interests:</strong> Healthcare Advocacy, Digital Design, Presentation Aesthetics, and Multimedia Storytelling</li>
       </ul>
       <hr />
-      <h3> ✿❀ Favorites</h3>
+      <h3>🛠️ Skills & Tools Learned</h3>
       <ul>
-        <li> <strong>Favorite Food:</strong> Chicken with white sauce</li>
-        <li> <strong>Favorite color:</strong> Pink</li>
-        <li> <strong>Favorite Movie:</strong> <em>World War Z</em></li>
+        <li><strong>Version Control & Documentation:</strong> GitHub, Repository Organization, Markdown Formatting</li>
+        <li><strong>Design & Productivity:</strong> Canva, Google Slides, Infographic Layout, AI Research & Career Tools</li>
+        <li><strong>Core Concepts:</strong> Visual Hierarchy, Color Theory, Typography, Prompt Engineering, Web Development</li>
+      </ul>
+      <hr />
+      <h3>✿❀ Favorites</h3>
+      <ul>
+        <li><strong>Food:</strong> Chicken with white sauce  |  <strong>Color:</strong> Pink  |  <strong>Movie:</strong> <em>World War Z</em></li>
       </ul>
     </td>
   </tr>
 </table>
 
+---
 
-### How I Created and Set Up the GitHub Repository ୭ ᵎᵎ 🧁
+## 🛠️ Repository Setup & Structure ୭ ᵎᵎ 🧁
 
-1. **Repository Initialization:** Established a new GitHub repository following the prescribed academic naming format (`GE4120-Arpilleda-Portfolio` / `BSN4F-Portfolio-Arpilleda`) to ensure easy identification for coursework evaluation.
-2. **Access Settings:** Configured repository visibility to Public, allowing evaluators and peers to inspect the project documentation without access restrictions or login credentials.
-3. **Core Base Files:** Provisioned the repository with a primary `README.md` file to serve as the root dashboard, alongside an automatically generated `.gitignore` file to filter out unnecessary system metadata (e.g., `.DS_Store` or local cache files).
+1. **Public Academic Repository:** Configured with public visibility under a clear academic naming convention so evaluators can inspect all documentation and files smoothly.
+2. **Clean Folder Architecture:** Organized all outputs into dedicated folders (`Activity-1` through `Activity-7`) with descriptive filenames and zero temporary or system files.
+3. **Complete Documentation:** Included this main profile `README.md` alongside individual `README.md` reflections inside every activity folder, pushed with meaningful commit messages.
+
+<details>
+  <summary><b>📸 View Repository Folder Preview</b></summary>
+  <br />
+  <img width="2862" height="856" alt="Repository Structure" src="https://github.com/user-attachments/assets/246e0133-4219-42fe-818c-e8bd2535613e" />
+</details>
 
 ---
 
-### How I Uploaded and Organized My Activities and Outputs ❤︎಄
+## 📂 Activities Overview ᯓ★
 
-* **Modular Directory Hierarchy:** Rather than dumping every file into the root level, assets were organized into dedicated, logical folders:
-<img width="2862" height="856" alt="kiana png" src="https://github.com/user-attachments/assets/246e0133-4219-42fe-818c-e8bd2535613e" />
- 
-   
+| # | Activity Title | Core Focus | Documentation |
+| :-: | :--- | :--- | :-: |
+| **01** | **Presentation Design Principles** | Visual hierarchy, contrast, alignment, repetition, and proximity | [View Folder](./Activity1/README.md) |
+| **02** | **Color Palette and Typography** | Color psychology, font pairing, and cohesive visual identity | [View Folder](./Activity-2/README.md) |
+| **03** | **Social Media Infographics** | Visual storytelling, layout workflow, and mini project documentation | [View Folder](./Activity-3/README.md) |
+| **04** | **Google Slides Presentation** | Real-time cloud collaboration and group slide delivery | [View Folder](./Activity-4/README.md) |
+| **05** | **AI Tools Exploration** | Prompt engineering and AI-assisted academic productivity | [View Folder](./Activity-5/README.md) |
+| **06** | **Website Development** | Web page structuring, navigation design, and digital publishing | [View Folder](./Activity-6/README.md) |
+| **07** | **AI-Assisted Resume Generation** | Professional career branding and clinical resume optimization | [View Folder](./Activity-7/README.md) |
 
-### ᯓ★ Activities Overview
-
-### [Activity 1: Presentation Design Principles](Activity1.md)
-> Discuss the design principles applied and how they improved the presentation.
-
-Applies fundamental design principles—such as visual hierarchy, contrast, alignment, repetition, and proximity—to create a well-structured and engaging presentation layout.
 ---
 
-### [Activity 2: Color Palette and Typography](Activity2.md)
-> Explain the chosen colors and typography and why they were selected.
-
-Explains the design logic, psychological influence, and aesthetic purpose behind the chosen color scheme and fonts.
----
-
-### [Activity 3: Social Media Infographics and Mini Project Documentation](Activity3.md)
-> Present the output and explain its concept, design choices, and creative process.
-
-Highlights the step-by-step creation of social media infographics, from initial concept to final published output.
---
+<div align="center">
+  <sub>Made with 🩷 by Kiana Angela E. Arpilleda • GE 4120 Finals Portfolio</sub>
+</div>
