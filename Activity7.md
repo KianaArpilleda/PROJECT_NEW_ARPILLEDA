@@ -1,4 +1,4 @@
-[⬅️ Back to Main Portfolio](../README.md)
+[⬅️ Back to Main Portfolio](/README.md)
 
 # ⋆˚࿔ Activity 7: AI-Assisted Resume Generation
 
