@@ -11,7 +11,6 @@ This activity focuses on [write 1–2 sentences explaining what Activity 4 is ab
 
 [🔗 View Activity 4 Output](./Activity4.pdf)
 
-*(Note: If your output is a video, document, or external link instead of an image, replace the line above with: `[🔗 View Activity 4 Output](./your-file-name.pdf)`)*
 
 ---
 
