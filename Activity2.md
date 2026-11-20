@@ -1,37 +1,28 @@
-[⬅️ Back to Main Portfolio](README.md)
+[⬅️ Back to Main Portfolio](/README.md)
 
-# .✦ ݁˖ Activity 2: Color Palette and Typography
+# ⋆˚࿔ Activity 2: Color Palette and Typography
 
-## 📌 Objectives
-Explain the chosen colors and typography and why they were selected.
-
----
-
-## 𓍢ִ໋🌷͙֒ Color Palette Selection
-
-* **Primary Color:** Cerise Pink / Red (`#CC0000`) and **Yellow** (`#FDE599`) — Selected to stimulate appetite, convey warmth, and reflect the welcoming energy of home-cooked Filipino food ("Lutong Bahay").
-* **Secondary Accents:** **Light Red**, **Grey Orange** (`#AA894F`), and **Light Orange** (`#FFA2`) — Used for background balance, ribbon details, and subtle visual contrast across branding assets.
-  
-  <img width="446" height="440" alt="Screenshot 2026-09-06 051642" src="https://github.com/user-attachments/assets/ba5ba86e-f65d-4f7a-831b-6ddb5b1e8c85" />
+## 📌 Activity Description
+This activity focuses on selecting a cohesive color scheme and font pairing, explaining the design logic, psychological influence, and aesthetic purpose behind those visual choices.
 
 ---
 
-## Typography Pairing
+## 🎨 Color Palette & Typography Choices
 
-* **Brand Name / Display Font:** **NAUTILIOIUS POMPILIOUS** — Used for *"Kian - deria"* and **Pompiere** for the arched slogan *"Lutong bahay, Sarap na tunay!"* to give a friendly, handcrafted, and authentic home-style feel.
-* **Body Font:** **The Seasons** — Selected for crisp readability and modern elegance across menus and project descriptions.
-* **Accent Font:** **Pompiere** — Used for sub-elements and label accents to keep the branding clean and structured.
-
-  <img width="410" height="343" alt="Screenshot 2026-09-06 051844" src="https://github.com/user-attachments/assets/1a455333-c11f-4eae-8c0e-8905eae6a701" />
+- **Color Scheme & Psychology:** Selected a harmonious combination of primary, secondary, and accent colors to evoke warmth, clarity, and visual balance while keeping text easy to read.
+- **Font Pairing & Readability:** Paired a bold, expressive display font for headings with a clean, legible sans-serif typeface for body text to establish clear visual hierarchy.
+- **Aesthetic Consistency:** Applied the chosen palette and type scale uniformly across all elements to build a recognizable and polished visual identity.
 
 ---
 
-## 📸 Output Preview
+## 🖼️ Output Preview
 
 ![Activity 2 Output](act2.png)
 
 ---
 
-## 💡 Rationale
-The combination of appetizing reds, warm yellows, and welcoming script typography captures the heart of a local *carinderia*. It evokes comfort, home-cooked warmth, and immediate brand recognition.
----
+## 💭 What Have I Learned?
+
+- **Key Concepts & Skills Gained:** I learned how color harmony, contrast ratios, and font pairing directly influence mood, readability, and audience perception in visual design.
+- **Challenge Faced & How I Solved It:** Choosing accent shades that stood out without clashing or reducing text legibility was difficult at first, which I resolved by testing color contrast and limiting the palette to three core tones.
+- **Future Application & Improvement:** I can use color psychology and clean typography when designing health awareness posters and educational handouts that feel calm, trustworthy, and accessible for patients.
