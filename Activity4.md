@@ -9,7 +9,7 @@ This activity focuses on designing and delivering a collaborative group presenta
 
 ## 🖼️ Output Preview
 
-[🔗 View Activity 4 Output](./your-file-name.pdf)
+[🔗 View Activity 4 Output](./Activity4.pdf)
 
 ---
 
