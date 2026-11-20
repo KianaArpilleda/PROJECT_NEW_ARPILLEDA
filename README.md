@@ -8,7 +8,7 @@
 ![Program](https://img.shields.io/badge/Program-BSN%204F-ffb6c1?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Finals%20Completed-success?style=for-the-badge)
 
-[👤 About Me](#-personal-profile) • [🛠️ Setup & Structure](#️-repository-setup--structure) • [📂 Activities](#-activities-overview)
+[👤 About Me](#about-me) • [🛠️ Setup & Structure](#setup-structure) • [📂 Activities](#activities)
 
 </div>
 
@@ -28,7 +28,7 @@
       <br /><br />
     </td>
     <td width="68%" valign="top">
-      <h3 id="-personal-profile">📄 Personal Profile</h3>
+    <h3 id="about-me">📄 Personal Profile</h3>
       <ul>
         <li><strong>Full Name:</strong> Kiana Angela E. Arpilleda</li>
         <li><strong>Course & Year Level:</strong> Bachelor of Science in Nursing (BSN) — 4th Year (Section 4F)</li>
@@ -67,7 +67,9 @@
 
 ---
 
-## 📂 Activities Overview ᯓ★
+<h2 id="activities">📂 Activities Overview ᯓ★</h2>
+
+Click any activity title below to view its full documentation, output preview, and reflection:
 
 | # | Activity Title | Core Focus | Documentation |
 | :-: | :--- | :--- | :-: |
