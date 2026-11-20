@@ -9,7 +9,7 @@ This activity focuses on designing and building a functional, user-friendly webs
 
 ## 🖼️ Output Preview
 
-[🔗 View Activity 6 Output](./your-file-name.html)
+[🔗 View Activity 6 Output](./Activity6.pdf)
 
 ---
 
