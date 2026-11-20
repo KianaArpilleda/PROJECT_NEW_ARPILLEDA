@@ -1,6 +1,6 @@
 [⬅️ Back to Main Portfolio](/README.md)
 
-# ⋆˚࿔ Activity 7: AI-Assisted Resume Generation
+# ⋆˚࿔ Activity 7: Resume Generating
 
 ## 📌 Activity Description
 This activity focuses on creating a polished, professional resume using AI-powered career tools to highlight academic achievements, clinical skills, and qualifications. Through this task, the output demonstrates effective personal branding and concise professional writing.
