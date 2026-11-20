@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ Repository Setup & Structure ୭ ᵎᵎ 🧁
+<h2 id="setup-structure">🛠️ Repository Setup & Structure ୭ ᵎᵎ 🧁</h2>
 
 1. **Public Academic Repository:** Configured with public visibility under a clear academic naming convention so evaluators can inspect all documentation and files smoothly.
 2. **Clean Folder Architecture:** Organized all outputs into dedicated folders (`Activity-1` through `Activity-7`) with descriptive filenames and zero temporary or system files.
