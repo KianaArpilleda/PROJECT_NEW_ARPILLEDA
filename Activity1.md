@@ -1,4 +1,4 @@
-[⬅️ Back to Main Portfolio](../README.md)
+[⬅️ Back to Main Portfolio](/README.md)
 
 # ⋆˚࿔ Activity 1: Presentation Design Principles
 
